@@ -139,45 +139,53 @@
 </div>
 ---
 
-# 🚀 Featured Projects
+# 🚀 Shubham Somavamshi GitHub Projects
 
-## 1️⃣ React Performance Optimization Playground
-🔹 Demonstrates React.memo, useCallback, useMemo  
-🔹 Side-by-side optimized vs unoptimized components  
-🔹 Performance comparison dashboard  
+## 📂 My Projects
 
-👉 [Live Demo](#) | [Source Code](#)
+### 🟩 LeetCode Public
+🔹 Collection of JavaScript solutions for LeetCode problems.  
+👉 [Source Code](https://github.com/shubham5C7/LeetCode) | Live Demo: N/A
+
+### 💻 shubham5C7
+🔹 Personal projects repository with various utilities and experiments.  
+👉 [Source Code](https://github.com/shubham5C7/shubham5C7) | Live Demo: N/A
+
+### 🌐 AccioConnect
+🔹 JavaScript project connecting users for networking and learning.  
+👉 [Source Code](https://github.com/shubham5C7/AccioConnect) | Live Demo: N/A
+
+### 🤖 ai-resume-builder
+🔹 Build resumes automatically using AI-powered templates.  
+👉 [Source Code](https://github.com/shubham5C7/ai-resume-builder) | Live Demo: N/A
+
+### 🖼️ Image-to-Text-Converter
+🔹 Convert images into text using JavaScript.  
+👉 [Source Code](https://github.com/shubham5C7/Image-to-Text-Converter) | Live Demo: N/A
+
+### 📦 NPM_flowText
+🔹 JavaScript utility published on NPM for text flow management.  
+👉 [Source Code](https://github.com/shubham5C7/NPM_flowText) | Live Demo: N/A
+
+### 📸 private-instagram-clone
+🔹 Instagram clone built with JavaScript for learning purposes.  
+👉 [Source Code](https://github.com/shubham5C7/private-instagram-clone) | Live Demo: N/A
+
+### 🏎️ cargame
+🔹 HTML-based car game project.  
+👉 [Source Code](https://github.com/shubham5C7/cargame) | Live Demo: N/A
+
+### ❌ Tic-Tac-Toe-project
+🔹 Classic Tic-Tac-Toe game implemented in JavaScript.  
+👉 [Source Code](https://github.com/shubham5C7/Tic-Tac-Toe-project) | Live Demo: N/A
+
+### ⚡ React-Best-Pratice
+🔹 React best practices examples and performance optimizations.  
+👉 [Source Code](https://github.com/shubham5C7/Reac-Best-Pratice) | Live Demo: N/A
 
 ---
 
-## 2️⃣ Task Management App
-🔹 Full-stack CRUD application  
-🔹 Authentication & Protected Routes  
-🔹 Real-time Chat Feature  
-
-👉 [Live Demo](#) | [Source Code](#)
-
----
-
-## 3️⃣ React Intelligence Debugger (RID)
-🔹 Smart React performance profiler  
-🔹 Detects unnecessary re-renders  
-🔹 Suggests optimizations  
-
-👉 [Live Demo](#) | [Source Code](#)
-
----
-
-## 4️⃣ UI Layout Generator
-🔹 Generate optimized JSX + Tailwind layouts  
-🔹 Interview-friendly project  
-🔹 No AI dependency  
-
-👉 [Live Demo](#) | [Source Code](#)
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/shubham-somavamshi991823/" target="_blank">
@@ -188,6 +196,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /> shubhamraopatil123@gmail.com
   </a>
 </p>
+
 ---
 
 ⭐️ From [shubham5C7](https://github.com/shubham5C7)
