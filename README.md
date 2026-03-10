@@ -181,7 +181,7 @@
 
 ### ⚡ React-Best-Pratice
 🔹 React best practices examples and performance optimizations.  
-👉 [Source Code](https://github.com/shubham5C7/Reac-Best-Pratice) | Live Demo: N/A
+👉 [Source Code](https://github.com/shubham5C7/Reac-Best-Pratice) | Live Demo.(https://react-best-pratice.netlify.app/)
 
 ---
 
