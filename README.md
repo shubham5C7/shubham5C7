@@ -173,11 +173,11 @@
 
 ### 🏎️ cargame
 🔹 HTML-based car game project.  
-👉 [Source Code](https://github.com/shubham5C7/cargame) | Live Demo: https://car-game-smoky.vercel.app
+👉 [Source Code](https://github.com/shubham5C7/cargame) | [Live Demo].(https://car-game-smoky.vercel.app).
 
 ### ❌ Tic-Tac-Toe-project
 🔹 Classic Tic-Tac-Toe game implemented in JavaScript.  
-👉 [Source Code](https://github.com/shubham5C7/Tic-Tac-Toe-project) | Live Demo: N/A
+👉 [Source Code](https://github.com/shubham5C7/Tic-Tac-Toe-project) | [Live Demo].(https://tic-tac-toe-project123.netlify.app).
 
 ### ⚡ React-Best-Pratice
 🔹 React best practices examples and performance optimizations.  
