@@ -165,7 +165,7 @@
 
 ### 📦 NPM_flowText
 🔹 JavaScript utility published on NPM for text flow management.  
-👉 [Source Code](https://github.com/shubham5C7/NPM_flowText) | Live Demo: N/A
+👉 [Source Code](https://github.com/shubham5C7/NPM_flowText) | [Live Demo].(https://www.npmjs.com/package/flowtext).
 
 ### 📸 private-instagram-clone
 🔹 Instagram clone built with JavaScript for learning purposes.  
