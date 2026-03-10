@@ -157,7 +157,7 @@
 
 ### 🤖 ai-resume-builder
 🔹 Build resumes automatically using AI-powered templates.  
-👉 [Source Code](https://github.com/shubham5C7/ai-resume-builder) | Live Demo: N/A
+👉 [Source Code](https://github.com/shubham5C7/ai-resume-builder) | Live Demo:(https://ai-resume-builder-eta-indol.vercel.app/)
 
 ### 🖼️ Image-to-Text-Converter
 🔹 Convert images into text using JavaScript.  
