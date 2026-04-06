@@ -1,5 +1,5 @@
 <h1 align="center">Shubham SomaVamshi</h1>
-<h3 align="center">Full-Stack Developer | React |Node | MongoDB </h3>
+<h3 align="center">MERN-Stack Developer | React |Node | MongoDB </h3>
 
 ---
 
